@@ -1,6 +1,6 @@
 # My Curriculum Vitae
 
-I should be updating this regularly.
+I should be updating this regularly. Fully rendered version in `Ivan-Krukov.pdf`
 
 ## Building
 
