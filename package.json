@@ -1,0 +1,13 @@
+{
+  "name": "curriculum-vitae",
+  "version": "0.0.0",
+  "description": "Personal CV",
+  "scripts": {
+    "watch": "node-sass -w ./CV.scss -o ./",
+    "clean": "rm -f *.css"
+  },
+  "author": "Ivan Krukov",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}

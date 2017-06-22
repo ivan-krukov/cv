@@ -1,0 +1,9 @@
+*.pdf
+
+cv.css
+
+
+node_modules/
+
+# Because deps should be minimal
+package-lock.json
