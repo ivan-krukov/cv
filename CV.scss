@@ -12,14 +12,14 @@ body {
 
 h1 {
   font-size: 30px;
-  font-weight: bold;
+  font-weight: normal;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 h2 {
   color: $hl-primary;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 25px;
   margin-bottom: 0px;
 }
@@ -28,11 +28,15 @@ h3 {
   color: $hl-secondary;
   margin-bottom: 0px;
   margin-top: 15px;
+  font-weight: normal;
+  font-size: 18px;
 }
 
 h4 {
   margin-bottom: 0px;
   margin-top: 5px;
+  font-weight: normal;
+  margin-left: 10px;
 }
 
 h5 {
