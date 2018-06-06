@@ -8,6 +8,6 @@
   },
   "author": "Ivan Krukov",
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.9.0"
   }
 }
